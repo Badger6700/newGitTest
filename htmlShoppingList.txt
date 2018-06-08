@@ -1,8 +1,13 @@
 <h1>Shopping List</h1>
 <body>
+<module-one>
 <ul>
 <li>bricks </li>
 <li>sand </li>
 <li>mortar</li>
 </ul>
+</module-one>
+<module-two>
+<div>headlines</div>
+</module-two>
 </body>
